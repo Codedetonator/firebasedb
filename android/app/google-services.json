@@ -41,43 +41,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:261555509201:android:f1036a9c4c4c052875f2f0",
-        "android_client_info": {
-          "package_name": "com.example.luminarproject"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "261555509201-8tvqfnb32ip5lm0q2nqcijf1niaoand2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.luminarproject",
-            "certificate_hash": "fb54a2da7428ca552dddf5c46a5cfb088c443643"
-          }
-        },
-        {
-          "client_id": "261555509201-sc5q7h60a1788tr6kotkkbf07tuko0r5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyD9G_Fbyk7oTFCV9MANNU_YgE2JPObkOvg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "261555509201-sc5q7h60a1788tr6kotkkbf07tuko0r5.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"
